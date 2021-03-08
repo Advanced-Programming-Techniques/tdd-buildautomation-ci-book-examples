@@ -9,6 +9,8 @@ by _Lorenzo Bettini_.
 	- Windows 10 Pro, Version 20H2, Build 19042.844
 	- java version "11.0.10" 2021-01-19 LTS, Java(TM) SE Runtime Environment 18.9 (build 11.0.10+8-LTS-162), Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.10+8-LTS-162, mixed mode)
 	- Eclipse IDE for Java Developers (includes Incubating components), Version: 2020-12 (4.18.0), Build id: 20201210-1552
+- Chapter Eclipse
+	- [hello-world-example](https://github.com/Advanced-Programming-Techniques/hello-world)
 - Chapter JUnit
   - [junit-bank-example](https://github.com/Advanced-Programming-Techniques/junit-bank-example)
   - [assertj-log4j-bank-example](https://github.com/Advanced-Programming-Techniques/assertj-log4j-bank-example)
